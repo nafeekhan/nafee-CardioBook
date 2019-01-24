@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ExtraText">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/et_systolic"
+        android:inputType="numberDecimal"
+        android:maxLines="1"
+        android:hint="Enter Systolic Pressure"
+        android:textStyle="bold"/>
+
+
+    <EditText
+        android:id="@+id/et_diastolic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/et_systolic"
+        android:textStyle="bold"
+        android:inputType="numberDecimal"
+        android:maxLines="1"
+        android:hint="Enter Diastolic Pressure" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/et_diastolic"
+        android:id="@+id/et_heartrate"
+        android:hint="Enter Heart Rate"
+        android:inputType="numberDecimal"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/et_heartrate"
+        android:id="@+id/et_date"
+        android:hint="yyyy-mm-dd"
+        android:focusable="false"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/et_date"
+        android:id="@+id/et_time"
+        android:hint="HH:MM"
+        android:focusable="false"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/et_time"
+        android:id="@+id/et_comment"
+        android:hint="Enter Comments"
+        android:inputType="textMultiLine"
+        android:textStyle="normal"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/et_comment"
+        android:text="Submit"
+        android:id="@+id/btn_submit" />
+
+
+    <LinearLayout style="?android:buttonBarStyle"
+        android:id="@+id/hor_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Delete"
+            android:id="@+id/btn_delete"/>
+        <Button style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Edit"
+            android:id="@+id/btn_edit"/>
+    </LinearLayout>
+
+</RelativeLayout>

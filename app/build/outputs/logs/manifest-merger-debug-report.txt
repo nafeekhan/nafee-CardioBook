@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66ea3d86d3df8ca95b4813934948a22c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nafee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d34442c9f662baefc6f75f203ae7cff4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ddd9292fe30dedc0e275b318645bc57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dba38bb09453f1737fa557f0e275467a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0528aecd34b91d7ef09109bcf443f7e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a75a01fe697c01fba87d8c93fc48b6d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5a25262b9836ef65e81c511060387295/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1fed3518d8d2a56c591db6bc3b1d099a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bd8ba764bdabc88300807f192d287415/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/305204f4ee61a47a93aa0139aa1163d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9dd043ed98c7f0c3fa69d8f3a38248ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/491d1dc2d10b4d13fab07d6b193df7c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3a14ccba948bfea4a493b9fe4547494e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4a49bbb03bcedbca8eab9502215c7578/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bcba65a2f0abae0ff00e7365012755f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04e18559bf00d53a1e172bf9a90796b5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1394ca20a3cde832f029ebc3f491426/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b2dd909cc831561b06811a9412ec8846/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c1e924445936b2b906d4d7769d172239/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/00bcf780236a8a651fabf455785c161f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c7af1f56a13f9a10ab8855a1f0118841/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/55388b521a0fb421f5a520bb25fcdc07/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/290a7954385b6baddc7960e1e65c8e08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9f102bd0c89a58faa11aedf72c645ec1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a41c7592a7433749dd9ebaef112c3139/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f811068545081b98e73865abdae12f7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e3349d88f5a9f6203f2b47f737c81c74/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nafee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d34442c9f662baefc6f75f203ae7cff4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nafee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d34442c9f662baefc6f75f203ae7cff4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04e18559bf00d53a1e172bf9a90796b5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04e18559bf00d53a1e172bf9a90796b5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1394ca20a3cde832f029ebc3f491426/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1394ca20a3cde832f029ebc3f491426/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04e18559bf00d53a1e172bf9a90796b5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.nafee.nafee_cardiobook.MainActivity
+ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.nafee.nafee_cardiobook.AddEditActivity
+ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:19:9-62
+	android:name
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml:19:19-50
+uses-sdk
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66ea3d86d3df8ca95b4813934948a22c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66ea3d86d3df8ca95b4813934948a22c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nafee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d34442c9f662baefc6f75f203ae7cff4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nafee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d34442c9f662baefc6f75f203ae7cff4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ddd9292fe30dedc0e275b318645bc57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ddd9292fe30dedc0e275b318645bc57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dba38bb09453f1737fa557f0e275467a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dba38bb09453f1737fa557f0e275467a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0528aecd34b91d7ef09109bcf443f7e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0528aecd34b91d7ef09109bcf443f7e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a75a01fe697c01fba87d8c93fc48b6d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a75a01fe697c01fba87d8c93fc48b6d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5a25262b9836ef65e81c511060387295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5a25262b9836ef65e81c511060387295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1fed3518d8d2a56c591db6bc3b1d099a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1fed3518d8d2a56c591db6bc3b1d099a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bd8ba764bdabc88300807f192d287415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bd8ba764bdabc88300807f192d287415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/305204f4ee61a47a93aa0139aa1163d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/305204f4ee61a47a93aa0139aa1163d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9dd043ed98c7f0c3fa69d8f3a38248ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9dd043ed98c7f0c3fa69d8f3a38248ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/491d1dc2d10b4d13fab07d6b193df7c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/491d1dc2d10b4d13fab07d6b193df7c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3a14ccba948bfea4a493b9fe4547494e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3a14ccba948bfea4a493b9fe4547494e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4a49bbb03bcedbca8eab9502215c7578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4a49bbb03bcedbca8eab9502215c7578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bcba65a2f0abae0ff00e7365012755f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bcba65a2f0abae0ff00e7365012755f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04e18559bf00d53a1e172bf9a90796b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/04e18559bf00d53a1e172bf9a90796b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1394ca20a3cde832f029ebc3f491426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1394ca20a3cde832f029ebc3f491426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b2dd909cc831561b06811a9412ec8846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b2dd909cc831561b06811a9412ec8846/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c1e924445936b2b906d4d7769d172239/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c1e924445936b2b906d4d7769d172239/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/00bcf780236a8a651fabf455785c161f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/00bcf780236a8a651fabf455785c161f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c7af1f56a13f9a10ab8855a1f0118841/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c7af1f56a13f9a10ab8855a1f0118841/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/55388b521a0fb421f5a520bb25fcdc07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/55388b521a0fb421f5a520bb25fcdc07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/290a7954385b6baddc7960e1e65c8e08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/290a7954385b6baddc7960e1e65c8e08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9f102bd0c89a58faa11aedf72c645ec1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9f102bd0c89a58faa11aedf72c645ec1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a41c7592a7433749dd9ebaef112c3139/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a41c7592a7433749dd9ebaef112c3139/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f811068545081b98e73865abdae12f7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nafee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f811068545081b98e73865abdae12f7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e3349d88f5a9f6203f2b47f737c81c74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nafee/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e3349d88f5a9f6203f2b47f737c81c74/AndroidManifest.xml:20:5-44
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafee/AndroidStudioProjects/nafeeCardioBook/app/src/main/AndroidManifest.xml
