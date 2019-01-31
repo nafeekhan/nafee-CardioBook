@@ -1,6 +1,7 @@
 package com.example.nafee.nafee_cardiobook;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -69,11 +70,23 @@ public class CardioBookAdapter extends ArrayAdapter<Measurement>{
             holder = (Viewholder) v.getTag();
         }
 
-        holder.tvSystolic.setText(measurement.getSystolicPressure().toString());
-        holder.tvDiastolic.setText(measurement.getDiastolicPressure().toString());
-        holder.tvHeartRate.setText(measurement.getHeartRate().toString());
+        holder.tvSystolic.setText("Systolic Preassure: " + measurement.getSystolicPressure().toString());
+        holder.tvDiastolic.setText("Diastolic Pressure: " + measurement.getDiastolicPressure().toString());
+        holder.tvHeartRate.setText("Heartrate: " + measurement.getHeartRate().toString());
+        holder.tvHeartRate.setTextColor(Color.BLACK);
         //DateFormat df = new SimpleDateFormat("yyyy.MM.dd");
         holder.tvDate.setText(measurement.getDate());
+        if(measurement.getSystolicPressure() > 140 || measurement.getSystolicPressure() < 90){
+            holder.tvSystolic.setTextColor(Color.RED);
+        } else {
+            holder.tvSystolic.setTextColor(Color.BLACK);
+        }
+        if(measurement.getDiastolicPressure() > 90 || measurement.getDiastolicPressure() < 60){
+            holder.tvDiastolic.setTextColor(Color.RED);
+        } else {
+            holder.tvDiastolic.setTextColor(Color.BLACK);
+        }
+
         //return convertView;
         return v;
     }
